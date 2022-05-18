@@ -1,7 +1,7 @@
 # Image-Slider
 Beetroot Academy - Lesson 35
 
-LIVE URL: https://mirinkakotze.github.io/Image-Slider/
+Live Page URL: https://mirinkakotze.github.io/Image-Slider/
 
 Create a image slider by using the Slick-Slider library.
 
